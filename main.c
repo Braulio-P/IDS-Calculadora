@@ -11,9 +11,9 @@ int main ()
      printf ("\n Dame el segundo numero a dividir:");
     scanf("%d",&num2);
 
-    int resultado = num1/num2;
+    float resultado = num1/num2;
 
-     printf ("\n El resultado de la division es: %d",resultado);
+     printf ("\n El resultado de la division es: %f",resultado);
     return 0;
 
 }
