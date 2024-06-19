@@ -4,7 +4,7 @@ int main ()
 {
     int num1,num2;
 
-    printf ("Bienvenido a la calculadora que DIVIDE");
+    printf ("Bienvenido a la calculadora que DIVIDE 1.0");
     printf ("\n Dame el primer numero a dividir: ");
     scanf("%d",&num1);
 
